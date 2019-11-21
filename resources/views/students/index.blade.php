@@ -36,7 +36,7 @@ background: fff;
         <a class="nav-link" href="#">ÍNICIO <span class="sr-only">(página atual)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="create">ESTÁGIO</a>
+        <a class="nav-link" href="create">CADASTRO</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
